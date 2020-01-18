@@ -1,0 +1,49 @@
+{
+    "__langAbbrev": "en",
+    "__langName": "English",
+    "_global": {
+        "about": "About",
+        "help": "Help",
+        "home": "Home",
+        "idemitAccounts": "Idemit accounts",
+        "language": "Language"
+    },
+    "auth": {
+        "register": "Create account",
+        "register2": "Registration",
+        "signIn": "Sign in",
+        "signIn2": "Sign in"
+    },
+    "drawer": {
+        "about": "About",
+        "help": "Help",
+        "home": "Home"
+    },
+    "gender": {
+        "_genderWidth": 55,
+        "female": "Female",
+        "male": "Male",
+        "other": "Other",
+        "ratherNotSay": "Prefer not to say"
+    },
+    "homepage": {
+        "motto": "One account, infinite possibilities.",
+        "title": "Idemit Accounts"
+    },
+    "moreMenu": {
+        "_langWidth": 75,
+        "darkMode": "Dark mode",
+        "language": "Language"
+    },
+    "register": {
+        "birthDate": "Birth date",
+        "confirmPassword": "Confirm password",
+        "email": "Email",
+        "fName": "First name",
+        "gender": "Gender",
+        "lName": "Last name",
+        "next": "Next",
+        "password": "Password",
+        "previous": "Previous"
+    }
+}

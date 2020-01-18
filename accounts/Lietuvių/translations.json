@@ -1,0 +1,48 @@
+{
+    "__langAbbrev": "lt",
+    "__langName": "Lietuvių",
+    "_global": {
+        "about": "Apie",
+        "help": "Pagalba",
+        "home": "Pagrindinis",
+        "idemitAccounts": "Idemit accounts",
+        "language": "Language"
+    },
+    "auth": {
+        "register": "Sukurti paskyrą",
+        "register2": "Registration",
+        "signIn": "Prisijungti",
+        "signIn2": "Sign in"
+    },
+    "drawer": {
+        "about": "Apie",
+        "help": "Pagalba",
+        "home": "Pagrindinis"
+    },
+    "gender": {
+        "_genderWidth": 55,
+        "female": "Female",
+        "male": "Male",
+        "other": "Other",
+        "ratherNotSay": "Prefer not to say"
+    },
+    "homepage": {
+        "title": "Idemit Accounts"
+    },
+    "moreMenu": {
+        "_langWidth": 75,
+        "darkMode": "Dark mode",
+        "language": "Language"
+    },
+    "register": {
+        "birthDate": "Birth date",
+        "confirmPassword": "Confirm password",
+        "email": "Email",
+        "fName": "First name",
+        "gender": "Gender",
+        "lName": "Last name",
+        "next": "Next",
+        "password": "Password",
+        "previous": "Previous"
+    }
+}

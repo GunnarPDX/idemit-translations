@@ -1,0 +1,46 @@
+{
+    "__langAbbrev": "sk",
+    "__langName": "Slovenčina",
+    "_global": {
+        "idemitAccounts": "Účty Idemit",
+        "language": "Jazyk"
+    },
+    "auth": {
+        "register": "Vytvoriť účet",
+        "register2": "Registrácia",
+        "signIn": "Prihlásiť sa",
+        "signIn2": "Prihlásenie"
+    },
+    "drawer": {
+        "about": "O službe",
+        "help": "Nápoveda",
+        "home": "Domov"
+    },
+    "gender": {
+        "_genderWidth": 55,
+        "female": "Female",
+        "male": "Male",
+        "other": "Other",
+        "ratherNotSay": "Prefer not to say"
+    },
+    "homepage": {
+        "motto": "Jeden účet, nekonečne veľa možností.",
+        "title": "Účty Idemit"
+    },
+    "moreMenu": {
+        "_langWidth": 45,
+        "darkMode": "Tmavý režim",
+        "language": "Jazyk"
+    },
+    "register": {
+        "birthDate": "Birth date",
+        "confirmPassword": "Confirm password",
+        "email": "Email",
+        "fName": "First name",
+        "gender": "Gender",
+        "lName": "Last name",
+        "next": "Next",
+        "password": "Password",
+        "previous": "Previous"
+    }
+}

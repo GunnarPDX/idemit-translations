@@ -1,0 +1,46 @@
+{
+    "__langAbbrev": "cs",
+    "__langName": "Čeština",
+    "_global": {
+        "idemitAccounts": "Účty Idemit",
+        "language": "Jazyk"
+    },
+    "auth": {
+        "register": "Vytvořit účet",
+        "register2": "Registrace",
+        "signIn": "Přihlásit se",
+        "signIn2": "Přihlášení"
+    },
+    "drawer": {
+        "about": "O službě",
+        "help": "Nápověda",
+        "home": "Domů"
+    },
+    "gender": {
+        "_genderWidth": 55,
+        "female": "Žena",
+        "male": "Muž",
+        "other": "Jiné",
+        "ratherNotSay": "Raději neřeknu"
+    },
+    "homepage": {
+        "motto": "Jeden účet, nekonečně mnoho možností.",
+        "title": "Účty Idemit"
+    },
+    "moreMenu": {
+        "_langWidth": 45,
+        "darkMode": "Tmavý režim",
+        "language": "Jazyk"
+    },
+    "register": {
+        "birthDate": "Datum narození",
+        "confirmPassword": "Potvrdit heslo",
+        "email": "Email",
+        "fName": "Jméno",
+        "gender": "Pohlaví",
+        "lName": "Příjmení",
+        "next": "Další",
+        "password": "Heslo",
+        "previous": "Předchozí"
+    }
+}
